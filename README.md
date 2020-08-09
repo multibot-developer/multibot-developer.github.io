@@ -1,4 +1,4 @@
 # multibot-developer.github.io
-멀티봇v1의 웹홈페이지
+멀티봇v1 홈페이지
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=multibot-developer)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Logo](https://cdn.discordapp.com/avatars/724176284183298069/c1fb7d8f3c54bb932ce4d05266f66fd4.png?size=256)
