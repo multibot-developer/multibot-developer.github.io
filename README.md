@@ -1,12 +1,16 @@
 # multibot-developer.github.io
 멀티봇v1 홈페이지
 
-
-
-
-**멀티봇v1은 디스코드(discord)라는 채팅앱에서 ``kang87y``가 만든 봇입니다.**
-
-멀티봇은 말 그대로 Multi(다용도)로 사용되는 봇입니다.[서버관리/채팅/미니게임등]
-
-초대코드 : https://discord.com/oauth2/authorize?client_id=724176284183298069&permissions=8&scope=bot
-
+<!DOCTYPE html>
+<html>
+    <head>
+        <title></title>
+        <meta charset="utf-8">
+        <link rel="stylesheet" href="hompi.css">
+    </head>
+    <body>
+        <h1><div class="titl">멀티봇v1</div></h1>
+        <div class="ttl2"><img style="border: 3px solid #CCE5FF; border-radius:40%"src="https://cdn.discordapp.com/avatars/724176284183298069/c1fb7d8f3c54bb932ce4d05266f66fd4.png?size=256"; width="100px";/>
+        <h2>멀티봇이란?<br>Discord(a.k.a 디스코드)에서 kang87y라는 유저가 만든 봇.</p></div>
+    </body>
+</html>
